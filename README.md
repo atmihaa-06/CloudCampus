@@ -264,7 +264,3 @@ The application was tested both locally and after AWS deployment. Verified funct
 
 Computer Science & Engineering
 
-
-Let me know once you have saved this file in your project directory, and we can check your backend dependencies/requirements before pushing everything to GitHub!
-
-```
